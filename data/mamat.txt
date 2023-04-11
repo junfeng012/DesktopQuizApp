@@ -1,0 +1,26 @@
+25
+3:B:Which is the Greek Flag?:Malaysia.jpg:Greece.jpg:USA.jpg:Italy.jpg
+3:B:Which is the flag of San Marino?:birdItaly.jpg:SanMarinoFlag.jpg:SanMarinoFlagC.jpg:SanMarinoFlagD.jpg
+1:C:Which beverage brand originated from Germany as a result of the second world war?:Coca Cola:Pepsi:Fanta:Sprite
+3:B:Which of the following flag is Guinea-Bissau?:GBFA.jpg:GBFB.jpg:GBFC.jpg:GBFD.jpg
+2:C:What is the name of Iraq’s National Dish?:Masgouf.jpg:Kleicha:Daheen:Masgouf:Samoon
+1:A:What is the capital of Greece?:Athens:Rhodes:Patras:Spartas
+1:B:Which language do San Marino citizen use?:English:Italian:Portugal:None of above
+3:A:Which of them is the German flag?:GermanFlagA.jpg:GermanFlagB.jpg:GermanFlagC.jpg:GermanFlagD.jpg
+1:A:During the 16th century, which empire ruled Guinea-Bissau?:Portugese Empire:British Empire:Soviet Empire:French colonial empire
+1:A:What are residents of Iraq called?:Iraqis:Iraqian:Iraqnids:Iraqnites
+2:C:What is the name of this Greek building?:Parthenon.jpg:Colosseum:Statue of Liberty:Parthenon:None of above
+1:C:What is the tallest mountain in Greece called?:Mount Kyllini:Mount Everest:Mount Olympus:None of above
+2:A:What is the name of this Greek Philosopher?:Plato.jpg:Plato:Elon Musk:Alexander The Great:Sun Tzu
+2:C:Which country city are shown from image above?:SanMarino.jpg:Italy:England:San Marino:Greece
+2:C:Where is the location of San Marino?:SanMarinoMap.jpg:Circle A:Circle B:Circle C:Circle D
+3:A:Which is the local dish of San Marino?:SanMarinoDishA.jpg:SanMarinoDishB.jpg:SanMarinoDishC.jpg:SanMarinoDishD.jpg
+1:C: In which year did Germany win the FIFA World Cup?:2006:2010:2014:2018
+2:A:What is the name of the German president?:Frank-Walter Steinmeier.jpg:Frank-Walter Steinmeier:Adolf Hitler:Joseph Stalin:Joachim Gauck
+3:D:Which car brand is not produced from Germany?:CarBrandA.png:CarBrandB.png:CarBrandC.png:CarBrandD.png
+2:C:Who is he? (Hint - He’s the 1st Prime Minister of Guinea-Bissau.):GBP.jpg:Dawda Jawara:Martin Luther King Jr.:Francisco Mendes:Louis Lansana Beavogui
+2:C:Where is Guinea-Bissau Located?:GBM.jpg:A:B:C:D
+1:B:When was Guinea-Bissau declared independent?:31 August 1956:24 September 1973:2 October 1958:12 December 1975
+1:D:The capital of Iraq is:Tehran:Jerusalem:Beirut:Baghdad
+3:B:Who is the President of Iraq?:IraqA.jpg:IraqB.jpg:IraqC.jpg:IraqD.jpg
+1:C:From which civilization did Iraq derived from?:Egypt:Indus Valley:Mesopotamia:Andes
